@@ -1,0 +1,142 @@
+[
+  {
+    "code": "MBGC",
+    "title": "Method for Anaerobic Digestion and Device for Implementing Said Method",
+    "description": "A method to convert organic waste into biogas and fertilizer using anaerobic digestion.",
+    "application": "Organic waste treatment, biogas production, renewable energy generation.",
+    "benefits": "Reduces landfill waste, produces clean energy, provides sustainable fertilizer."
+  },
+  {
+    "code": "PBRC",
+    "title": "Algae to Food/Feed/Biofuel in Urban and Periurban Areas",
+    "description": "A process to cultivate algae for food supplements, animal feed, or biofuel in city environments.",
+    "application": "Urban farming, biofuel production, nutraceuticals.",
+    "benefits": "Sustainable food and energy source, reduces carbon footprint, supports urban agriculture."
+  },
+  {
+    "code": "SDGC",
+    "title": "Sea and Process Water Solar Desalination",
+    "description": "A solar-powered system that purifies seawater or industrial process water for reuse.",
+    "application": "Drinking water production, industrial water recycling.",
+    "benefits": "Provides clean water, reduces energy costs, supports sustainable water management."
+  },
+  {
+    "code": "HWFC",
+    "title": "Hydrogen Extractor and Conversion to Direct Current",
+    "description": "A device that extracts hydrogen from water or biomass and converts it to electricity.",
+    "application": "Clean energy generation, hydrogen fuel production.",
+    "benefits": "Reduces fossil fuel dependence, provides renewable electricity, decreases greenhouse gas emissions."
+  },
+  {
+    "code": "SDNA",
+    "title": "Lights Diffusor Homogeneous by Side Emission Fiber",
+    "description": "A fiber optic system that distributes light evenly across spaces.",
+    "application": "Indoor farming, architectural lighting, greenhouses.",
+    "benefits": "Optimizes plant growth, reduces electricity consumption, improves visual comfort."
+  },
+  {
+    "code": "CMTC",
+    "title": "Capture Radiative Spectrum and Thermal Energy",
+    "description": "A system that captures sunlight and thermal radiation for energy production.",
+    "application": "Solar thermal systems, industrial heat recovery.",
+    "benefits": "Increases energy efficiency, reduces fossil fuel use, supports renewable energy goals."
+  },
+  {
+    "code": "GSMF",
+    "title": "Gravimetric Separator for Mixtures of Fluids, Liquids, and Gas",
+    "description": "A device to separate multi-phase mixtures efficiently based on density differences.",
+    "application": "Water treatment, industrial process optimization.",
+    "benefits": "Reduces chemical use, improves resource recovery, supports clean water initiatives."
+  },
+  {
+ "code": "MHLM",
+    "title": "Delimited Homogeneous Mixer in Big Reactor",
+    "description": "An industrial reactor design that ensures uniform mixing of fluids, gases, or chemicals in large-scale processes.",
+    "application": "Chemical production, wastewater treatment, food and beverage processing.",
+    "benefits": "Improves product consistency, reduces energy consumption, enhances reaction efficiency."
+  },
+  {
+    "code": "GPBF",
+    "title": "Garden Photo Bioreactor Fish",
+    "description": "A system integrating aquaculture and hydroponics where fish waste fertilizes plant growth in a controlled bioreactor.",
+    "application": "Urban agriculture, aquaponics farms, educational greenhouses.",
+    "benefits": "Sustainable food production, efficient water use, encourages urban greening."
+  },
+  {
+    "code": "SIRD",
+    "title": "System Infusion Respiration Distributed",
+    "description": "A distributed ventilation and oxygenation system designed to enhance air quality in large facilities.",
+    "application": "Hospitals, factories, public buildings, greenhouses.",
+    "benefits": "Improves health and comfort, reduces airborne contaminants, supports sustainable building management."
+  },
+  {
+    "code": "GFSS",
+    "title": "General Field Spiral Separation",
+    "description": "A device for separating particles in liquids or gases using centrifugal and spiral forces.",
+    "application": "Water purification, industrial filtration, chemical processing.",
+    "benefits": "Efficient separation, reduces energy and chemical use, environmentally friendly solution."
+  },
+  {
+    "code": "WWWV",
+    "title": "Way With Wind Vespucci",
+    "description": "A wind energy harvesting system designed for low and high-density urban and rural settings.",
+    "application": "Renewable energy generation, hybrid microgrids, sustainable transport hubs.",
+    "benefits": "Provides clean energy, reduces carbon footprint, adaptable to multiple scales and environments."
+  },
+  {
+    "code": "MOLC",
+    "title": "More O2 Less CO2",
+    "description": "A method and device to increase oxygen levels and reduce carbon dioxide concentrations in closed or semi-closed systems.",
+    "application": "Indoor agriculture, greenhouses, environmental control in buildings.",
+    "benefits": "Boosts plant growth, improves air quality, supports carbon reduction targets."
+  },
+  {
+ "code": "RHLS",
+    "title": "Resilience Heart Low System",
+    "description": "An energy storage and management system designed to maintain stable power supply for renewable energy installations even under fluctuating loads.",
+    "application": "Smart grids, microgrids, off-grid renewable installations, industrial energy backup systems.",
+    "benefits": "Enhances energy resilience, reduces dependency on conventional power, ensures uninterrupted energy supply, and improves efficiency."
+  },
+  {
+    "code": "SSUB",
+    "title": "Sonar Stroke Unit Biogas",
+    "description": "A sonar-monitored biogas production system ensuring optimal digestion and gas production from organic waste.",
+    "application": "Biogas plants, agricultural waste management, rural energy projects.",
+    "benefits": "Maximizes biogas output, monitors production automatically, reduces environmental footprint, improves energy efficiency."
+  },
+  {
+    "code": "ACMW",
+    "title": "Air Compressed Motor Wheel",
+    "description": "A propulsion system using compressed air integrated into a wheel, designed for eco-friendly transportation solutions.",
+    "application": "Electric vehicles, hybrid urban transport, eco-vehicles for industrial applications.",
+    "benefits": "Reduces fossil fuel consumption, lowers emissions, enables sustainable urban mobility, and supports innovative transportation designs."
+  },
+  {
+    "code": "SIDR",
+    "title": "Heating/Cooling Big Surface on Sport, Agro, Industry",
+    "description": "A temperature control system for large surfaces to provide optimized heating or cooling in sports arenas, greenhouses, or industrial spaces.",
+    "application": "Greenhouse climate control, sports facility comfort management, industrial temperature regulation.",
+    "benefits": "Energy-efficient heating/cooling, enhances productivity, improves crop yield, maintains comfort in large indoor environments."
+  },
+  {
+    "code": "ITEG",
+    "title": "Integrated Turbine Energy Generator",
+    "description": "A hybrid energy generation system combining wind, solar, and water turbine technologies for continuous and efficient power production.",
+    "application": "Renewable energy plants, off-grid communities, hybrid microgrids.",
+    "benefits": "Reliable renewable energy, maximizes natural resource utilization, reduces carbon footprint, and provides a flexible multi-source energy solution."
+  },
+  {
+    "code": "EGRS",
+    "title": "Eco Green Roof System",
+    "description": "A modular green roof solution designed to mitigate building heat, promote urban biodiversity, and improve air quality.",
+    "application": "Urban buildings, sustainable architecture, climate-resilient construction.",
+    "benefits": "Reduces energy consumption for cooling/heating, promotes environmental sustainability, enhances urban biodiversity."
+  },
+  {
+    "code": "WRMF",
+    "title": "Water Recycling Modular Facility",
+    "description": "A scalable modular system to treat, recycle, and reuse greywater and wastewater for residential, commercial, or industrial purposes.",
+    "application": "Urban water management, industrial water reuse, sustainable residential complexes.",
+    "benefits": "Conserves water resources, reduces wastewater discharge, promotes circular water usage, and ensures environmental compliance."
+  }
+]

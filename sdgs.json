@@ -1,0 +1,476 @@
+[
+  {
+    "number": 1,
+    "title": "End poverty in all its forms everywhere",
+    "description": "Ensure access to basic resources, social protection, and economic opportunities for all.",
+    "subpoints": [
+      {
+        "id": "1.1",
+        "C": "Help children understand that everyone should have food, clothes, and a safe home.",
+        "Y": "Focus on providing education and training so young people can earn and live well.",
+        "M": "Implement workplace and community programs to reduce poverty through investments and social policies.",
+        "G": "Policies should guarantee social safety nets, financial inclusion, and economic equality at national and local levels."
+      },
+      {
+        "id": "1.2",
+        "C": "Teach kids that sharing and helping others is important.",
+        "Y": "Encourage young adults to volunteer and support local initiatives.",
+        "M": "Develop corporate social responsibility programs targeting underserved communities.",
+        "G": "Strengthen government and NGO partnerships to reach vulnerable populations."
+      },
+      {
+        "id": "1.3",
+        "C": "Explain why having food and school is important for a happy life.",
+        "Y": "Support young people in accessing affordable housing and healthcare.",
+        "M": "Provide microfinance and job creation programs for local entrepreneurs.",
+        "G": "Monitor poverty trends and implement long-term inclusive development strategies."
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "title": "End hunger, achieve food security and improved nutrition and promote sustainable agriculture",
+    "description": "Ensure everyone has enough safe and nutritious food and promote sustainable farming.",
+    "subpoints": [
+      {
+        "id": "2.1",
+        "C": "Teach children why eating healthy foods is important for growing strong.",
+        "Y": "Encourage young people to support local farmers and reduce food waste.",
+        "M": "Adopt sustainable agriculture methods and supply chains for better nutrition.",
+        "G": "Support policies promoting food security, nutrition programs, and sustainable agriculture incentives."
+      },
+      {
+        "id": "2.2",
+        "C": "Show kids fun ways to plant small gardens at school or home.",
+        "Y": "Provide access to learning about balanced diets and eco-friendly farming.",
+        "M": "Invest in technology for precision agriculture to improve yields.",
+        "G": "Fund initiatives that reduce hunger and promote food access for vulnerable communities."
+      },
+      {
+        "id": "2.3",
+        "C": "Explain how farmers grow vegetables and fruits.",
+        "Y": "Engage youth in community-supported agriculture and nutrition campaigns.",
+        "M": "Support agricultural innovation and partnerships with local producers.",
+        "G": "Create national strategies to improve crop yields and sustainable food production."
+      }
+    ]
+  },
+  {
+   "number": 3,
+    "title": "Ensure healthy lives and promote well-being for all at all ages",
+    "description": "Improve healthcare access, disease prevention, and mental well-being.",
+    "subpoints": [
+      {
+        "id": "3.1",
+        "C": "Teach children about washing hands, eating healthy foods, and visiting doctors when sick.",
+        "Y": "Encourage young adults to exercise regularly, eat balanced meals, and care for their mental health.",
+        "M": "Implement workplace wellness programs and stress management support for employees.",
+        "G": "Establish national healthcare systems, vaccination programs, and public health policies for disease prevention."
+      },
+      {
+        "id": "3.2",
+        "C": "Explain why vaccines and checkups help keep people safe and healthy.",
+        "Y": "Promote health awareness campaigns on lifestyle diseases and mental well-being for youth.",
+        "M": "Encourage health screenings, ergonomic practices, and preventive care in offices.",
+        "G": "Invest in healthcare infrastructure, emergency services, and disease monitoring programs."
+      },
+      {
+        "id": "3.3",
+        "C": "Teach kids to recognize when they feel unwell and ask for help.",
+        "Y": "Support youth in understanding mental health, hygiene, and nutrition.",
+        "M": "Offer counseling and mental health workshops for managers and employees.",
+        "G": "Implement nationwide public health education and programs to reduce disease burden."
+      }
+    ]
+  },
+  {
+    "number": 4,
+      "title": "Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all",
+    "description": "Provide equal access to education, skills, and lifelong learning opportunities.",
+    "subpoints": [
+      {
+        "id": "4.1",
+        "C": "Make learning fun and easy for all children in school through games, stories, and interactive lessons.",
+        "Y": "Encourage young adults to pursue skill development, online courses, and vocational training.",
+        "M": "Support continuing education and professional development opportunities for employees.",
+        "G": "Implement policies to guarantee free and inclusive education for all genders and communities."
+      },
+      {
+        "id": "4.2",
+        "C": "Explain the importance of reading books, asking questions, and exploring new ideas.",
+        "Y": "Promote online learning, certifications, and workshops for youth skill enhancement.",
+        "M": "Develop mentorship programs, seminars, and workshops to enhance workforce knowledge.",
+        "G": "Invest in educational infrastructure, teacher training, and digital literacy programs nationwide."
+      },
+      {
+        "id": "4.3",
+        "C": "Teach kids to be curious, explore nature, and participate in creative activities.",
+        "Y": "Encourage lifelong learning and self-improvement opportunities for young adults.",
+        "M": "Support employees in attending conferences, seminars, and training for career growth.",
+        "G": "Ensure equitable access to quality education and learning opportunities for all populations."
+      }
+    ]
+  },
+  {
+    "number": 5,
+    "title": "Achieve gender equality and empower all women and girls",
+    "description": "Eliminate discrimination, ensure equal rights, and provide opportunities for women and girls.",
+    "subpoints": [
+      {
+        "id": "5.1",
+        "C": "Teach children that boys and girls are equal and should share responsibilities.",
+        "Y": "Encourage young women and men to pursue education and leadership roles equally.",
+        "M": "Implement workplace policies to ensure gender equality, equal pay, and safe work environments.",
+        "G": "Promote legal frameworks and programs supporting women’s rights and empowerment."
+      },
+      {
+        "id": "5.2",
+        "C": "Explain why it’s important to treat everyone with respect.",
+        "Y": "Raise awareness among youth about combating gender stereotypes and discrimination.",
+        "M": "Support mentorship, leadership training, and career development for female employees.",
+        "G": "Fund initiatives to reduce gender-based violence and improve social protection for women and girls."
+      },
+      {
+        "id": "5.3",
+        "C": "Teach kids to play and learn without thinking boys are better than girls.",
+        "Y": "Encourage young adults to challenge unfair norms and advocate for equality.",
+        "M": "Promote organizational culture that values diversity and inclusion at all levels.",
+        "G": "Strengthen national policies and programs that empower women socially, economically, and politically."
+      }
+    ]
+  },
+  {
+    "number": 6,
+    "title": "Ensure availability and sustainable management of water and sanitation for all",
+    "description": "Provide clean water, safe sanitation, and promote sustainable usage practices.",
+    "subpoints": [
+      {
+        "id": "6.1",
+        "C": "Teach kids to wash hands and brush teeth with clean water daily.",
+        "Y": "Promote awareness about water conservation and hygiene among young people.",
+        "M": "Encourage offices to use water-saving technologies and provide proper sanitation facilities.",
+        "G": "Invest in infrastructure for clean water supply, sanitation, and wastewater treatment nationwide."
+      },
+      {
+        "id": "6.2",
+        "C": "Explain why drinking clean water keeps everyone healthy.",
+        "Y": "Educate youth about safe sanitation practices and reducing pollution.",
+        "M": "Implement regular maintenance of workplace sanitation and water facilities.",
+        "G": "Develop policies ensuring equitable access to safe water and sanitation for all communities."
+      },
+      {
+        "id": "6.3",
+        "C": "Teach children to avoid littering and keep water clean.",
+        "Y": "Encourage young adults to participate in water conservation campaigns.",
+        "M": "Monitor water usage and promote sustainability programs in organizations.",
+        "G": "Strengthen water resource management, pollution control, and ecosystem protection measures."
+      }
+    ]
+  },
+  {
+   "number": 7,
+    "title": "Ensure access to affordable, reliable, sustainable, and modern energy for all",
+    "description": "Expand energy access, improve efficiency, and promote renewable sources.",
+    "subpoints": [
+      {
+        "id": "7.1",
+        "C": "Teach children to switch off lights and save energy.",
+        "Y": "Encourage youth to explore renewable energy technologies like solar and wind.",
+        "M": "Adopt energy-efficient technologies and renewable energy solutions in workplaces.",
+        "G": "Invest in renewable energy projects and policies to ensure affordable access for all."
+      },
+      {
+        "id": "7.2",
+        "C": "Explain how solar and wind energy are clean and safe.",
+        "Y": "Raise awareness about reducing fossil fuel use and promoting green energy.",
+        "M": "Support companies in transitioning to renewable and clean energy options.",
+        "G": "Develop laws and frameworks to encourage sustainable energy adoption nationwide."
+      },
+      {
+        "id": "7.3",
+        "C": "Teach kids why using clean energy helps the planet stay healthy.",
+        "Y": "Encourage youth to participate in campaigns for clean and sustainable energy.",
+        "M": "Introduce policies for energy audits and energy efficiency improvements.",
+        "G": "Ensure universal energy access while promoting sustainability goals."
+      }
+    ]
+  },
+  {
+    "number": 8,
+    "title": "Promote sustained, inclusive, and sustainable economic growth, full and productive employment, and decent work for all",
+    "description": "Foster economic growth, job opportunities, and decent working conditions.",
+    "subpoints": [
+      {
+        "id": "8.1",
+        "C": "Teach kids why work helps people earn money to buy what they need.",
+        "Y": "Encourage young adults to explore entrepreneurship and creative industries.",
+        "M": "Promote fair wages, safe working conditions, and opportunities for all employees.",
+        "G": "Support national policies that stimulate economic growth and job creation."
+      },
+      {
+        "id": "8.2",
+        "C": "Explain that teamwork makes jobs easier and more fun.",
+        "Y": "Support training and internships for youth to gain work experience.",
+        "M": "Provide continuous learning and development opportunities for staff.",
+        "G": "Encourage innovation and investment in sustainable industries to boost growth."
+      },
+      {
+        "id": "8.3",
+        "C": "Show how chores and small tasks prepare kids for bigger jobs in the future.",
+        "Y": "Promote financial literacy and responsible economic behavior among youth.",
+        "M": "Encourage entrepreneurship, innovation, and inclusive business practices.",
+        "G": "Strengthen institutions to promote productive employment and fair work opportunities."
+      }
+    ]
+  },
+  {
+    "number": 9,
+    "title": "Build resilient infrastructure, promote inclusive and sustainable industrialization, and foster innovation",
+    "description": "Support infrastructure growth, innovation, and sustainable industries.",
+    "subpoints": [
+      {
+        "id": "9.1",
+        "C": "Teach kids how roads, schools, and hospitals make life easier.",
+        "Y": "Encourage youth to pursue careers in science, engineering, and technology.",
+        "M": "Support sustainable industrial practices and innovative business models.",
+        "G": "Invest in resilient infrastructure and inclusive industrial development."
+      },
+      {
+        "id": "9.2",
+        "C": "Explain how building bridges, houses, and factories helps communities grow.",
+        "Y": "Promote youth involvement in innovation and entrepreneurship.",
+        "M": "Adopt modern technologies and sustainable infrastructure investments.",
+        "G": "Create policies encouraging research, development, and sustainable industries."
+      },
+      {
+        "id": "9.3",
+         "Y": "Promote energy-efficient practices in youth-led projects and learning labs.",
+        "M": "Implement energy-efficient technologies and eco-friendly practices in industrial processes.",
+        "G": "Support regulations and incentives for sustainable industrial practices and reduced carbon emissions."
+      }
+    ]
+  },
+  {
+  "number": 10,
+    "title": "Reduce inequality within and among countries",
+    "description": "Promote fairness and equality across individuals and nations.",
+    "subpoints": [
+      {
+        "id": "10.1",
+        "C": "Teach kids that everyone should be treated kindly and fairly.",
+        "Y": "Encourage young people to speak out against discrimination and unfairness.",
+        "M": "Adopt workplace policies that promote diversity and inclusion.",
+        "G": "Implement laws and international cooperation to reduce inequality."
+      },
+      {
+        "id": "10.2",
+        "C": "Show that sharing and helping others makes life better for everyone.",
+        "Y": "Promote equal opportunities for youth in education and jobs.",
+        "M": "Support programs for disadvantaged groups and minority communities.",
+        "G": "Strengthen systems that ensure equitable growth and fair resource distribution."
+      },
+      {
+        "id": "10.3",
+        "C": "Explain that no matter where someone comes from, they deserve respect.",
+        "Y": "Raise awareness about global inequality and its impact on development.",
+        "M": "Encourage fair pay, equal treatment, and opportunities at work.",
+        "G": "Create global policies to support equity among developing and developed nations."
+      }
+    ]
+  },
+  {
+    "number": 11,
+    "title": "Make cities and human settlements inclusive, safe, resilient, and sustainable",
+    "description": "Improve living conditions, urban planning, and community resilience.",
+    "subpoints": [
+      {
+        "id": "11.1",
+        "C": "Teach kids why clean parks, safe roads, and good houses matter.",
+        "Y": "Encourage youth to participate in community service and city improvement projects.",
+        "M": "Promote green buildings, public transport, and waste management systems.",
+        "G": "Plan urban development policies that prioritize safety and sustainability."
+      },
+      {
+        "id": "11.2",
+        "C": "Explain how safe schools and hospitals make cities better.",
+        "Y": "Promote affordable housing and safe spaces for young people.",
+        "M": "Design workplaces and commercial areas that are safe, accessible, and environmentally friendly.",
+        "G": "Plan and implement urban policies that ensure safe, inclusive, and sustainable living spaces."
+      },
+      {
+        "id": "11.3",
+        "C": "Explain that good transportation like buses and bikes helps people go to school safely.",
+        "Y": "Promote sustainable mobility and awareness campaigns for youth.",
+        "M": "Invest in transport infrastructure that reduces emissions and improves efficiency.",
+        "G": "Develop national transport policies promoting accessibility, sustainability, and safety for all."
+      }
+    ]
+  },
+  {
+    "number": 12,
+    "title": "Ensure sustainable consumption and production patterns",
+    "subpoints": [
+      {
+        "id": "12.1",
+        "C": "Teach children that using only what we need and recycling helps the Earth.",
+        "Y": "Encourage youth to adopt sustainable habits and reduce waste in daily life.",
+        "M": "Promote sustainable supply chains and responsible production practices in businesses.",
+        "G": "Implement regulations that ensure responsible consumption and production nationally and globally."
+      },
+      {
+        "id": "12.2",
+        "C": "Explain that taking care of water, food, and other resources keeps everyone happy and healthy.",
+        "Y": "Raise awareness among youth about resource management and environmental responsibility.",
+        "M": "Optimize resource use in industrial production and reduce environmental impact.",
+        "G": "Develop policies that promote sustainable resource management and circular economy approaches."
+      },
+      {
+ "id": "12.3",
+        "C": "Teach children not to waste food and why it’s important to share and save resources.",
+        "Y": "Encourage youth to join programs that reduce food waste and promote responsible consumption.",
+        "M": "Implement strategies in businesses to minimize food loss and optimize supply chains.",
+        "G": "Governments and organizations should create policies to monitor and reduce food waste in production and distribution."
+      }
+    ]
+  },
+  {
+  "number": 13,
+    "title": "Take urgent action to combat climate change and its impacts",
+    "description": "Address global warming through awareness, resilience, and clean energy.",
+    "subpoints": [
+      {
+        "id": "13.1",
+        "C": "Teach kids why planting trees and saving energy helps fight climate change.",
+        "Y": "Encourage youth to join climate action groups and eco-projects.",
+        "M": "Adopt clean energy practices and reduce carbon footprints at workplaces.",
+        "G": "Strengthen national policies to meet climate commitments."
+      },
+      {
+        "id": "13.2",
+        "C": "Explain why turning off lights saves the Earth.",
+        "Y": "Promote renewable energy use in schools and communities.",
+        "M": "Integrate climate risks into business and investment strategies.",
+        "G": "Develop climate-resilient policies and invest in adaptation efforts."
+      },
+      {
+        "id": "13.3",
+        "C": "Show kids why caring for nature makes the world cooler and safer.",
+        "Y": "Raise awareness about global warming and its effects on daily life.",
+        "M": "Support innovation in green technologies.",
+        "G": "Provide global support for countries vulnerable to climate change."
+      }
+    ]
+  },
+  {
+    "number": 14,
+    "title": "Conserve and sustainably use the oceans, seas, and marine resources",
+    "description": "Protect marine life, reduce pollution, and promote sustainable fishing.",
+    "subpoints": [
+      {
+        "id": "14.1",
+        "C": "Teach kids not to throw plastic in water because it harms fish.",
+        "Y": "Encourage youth to join beach clean-ups and marine protection drives.",
+        "M": "Adopt sustainable fishing and reduce industrial marine pollution.",
+        "G": "Create stronger policies against plastic waste and overfishing."
+      },
+      {
+        "id": "14.2",
+        "C": "Explain how clean oceans help people and animals stay healthy.",
+        "Y": "Promote careers and studies in marine conservation.",
+        "M": "Support eco-friendly shipping and port operations.",
+        "G": "Protect marine ecosystems and expand ocean conservation zones."
+      },
+      {
+        "id": "14.3",
+        "C": "Show kids how coral reefs are like homes for sea creatures.",
+        "Y": "Encourage youth research projects on marine biodiversity.",
+        "M": "Invest in marine renewable energy and ocean-based solutions.",
+        "G": "Cooperate internationally on ocean health and governance."
+      }
+    ]
+  },
+  {
+     "number": 15,
+    "title": "Protect, restore, and promote sustainable use of terrestrial ecosystems",
+    "description": "Safeguard forests, land, and biodiversity from degradation.",
+    "subpoints": [
+      {
+        "id": "15.1",
+        "C": "Teach kids why trees and forests are the lungs of the Earth.",
+        "Y": "Encourage youth to participate in tree planting campaigns.",
+        "M": "Adopt land-friendly farming and reduce deforestation practices.",
+        "G": "Strengthen forest conservation laws and global land protection."
+      },
+      {
+        "id": "15.2",
+        "C": "Show kids why animals need safe homes in forests.",
+        "Y": "Promote wildlife clubs and biodiversity awareness among youth.",
+        "M": "Support conservation programs and eco-tourism.",
+        "G": "Implement policies to stop desertification and biodiversity loss."
+      },
+      {
+        "id": "15.3",
+        "C": "Explain that taking care of the land keeps our planet alive.",
+        "Y": "Encourage youth projects on soil care and reforestation.",
+        "M": "Promote sustainable agriculture and water management.",
+        "G": "Develop international programs to restore degraded lands."
+      }
+    ]
+  },
+  {
+    "number": 16,
+    "title": "Promote peaceful and inclusive societies for sustainable development",
+    "description": "Build justice, equality, and strong institutions for lasting peace.",
+    "subpoints": [
+      {
+        "id": "16.1",
+        "C": "Teach children to be kind, share, and solve problems without fighting.",
+        "Y": "Encourage youth to join peace clubs and mediation groups.",
+        "M": "Implement workplace fairness, non-discrimination, and transparency policies.",
+        "G": "Develop strong institutions that protect human rights and reduce violence."
+      },
+      {
+        "id": "16.2",
+        "C": "Explain why bullying and hurting others is wrong.",
+        "Y": "Engage youth in anti-violence campaigns and peer support networks.",
+        "M": "Adopt corporate safeguards against harassment and abuse.",
+        "G": "Enforce national and international laws against violence and exploitation."
+      },
+      {
+        "id": "16.3",
+        "C": "Teach kids why fairness and rules matter in school and play.",
+        "Y": "Raise awareness about justice, rights, and responsibilities among youth.",
+        "M": "Promote transparent governance in organizations.",
+        "G": "Ensure access to justice for all and build accountable institutions."
+      }
+    ]
+  },
+  {
+    "number": 17,
+    "title": "Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development",
+    "description": "Boost international collaboration, finance, trade, and innovation for global goals.",
+    "subpoints": [
+      {
+        "id": "17.1",
+        "C": "Explain that working together helps everyone have what they need.",
+        "Y": "Encourage youth to collaborate in community projects and share resources.",
+        "M": "Foster partnerships between businesses to support sustainable development goals.",
+        "G": "Governments should strengthen international cooperation and financial support."
+      },
+      {
+        "id": "17.2",
+        "C": "Teach children that sharing knowledge and helping friends is good.",
+        "Y": "Promote youth networks and collaborations to solve community challenges.",
+        "M": "Engage in cross-industry collaborations and knowledge sharing.",
+        "G": "Enhance trade, technology transfer, and partnerships to achieve sustainable development."
+      },
+      {
+        "id": "17.3",
+        "C": "Explain that giving and receiving help can make projects succeed.",
+        "Y": "Encourage young people to participate in joint programs and mentorship.",
+        "M": "Support joint ventures and projects with social and environmental benefits.",
+        "G": "Strengthen multi-stakeholder partnerships to mobilize resources and expertise."
+      }
+    ]
+  }
+]
